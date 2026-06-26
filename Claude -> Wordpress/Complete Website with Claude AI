@@ -1,0 +1,32 @@
+#Generate Your Complete Website with Claude AI
+
+Copy This Prompt — Fill in Your Details
+Copy
+Design a complete 5-page website for my business using HTML.
+Make it look modern, clean, and professional.
+Give it unique designs and make sure the design beats my competitors.
+
+Business name: [YOUR BUSINESS NAME]
+What I do: [YOUR SERVICES]
+Who I serve: [YOUR TARGET CUSTOMERS]
+Main goal of the site: [GET LEADS / BOOK CALLS / SHOWCASE WORK]
+SEO keywords: [KEYWORD 1, KEYWORD 2, KEYWORD 3]
+
+Build these 5 pages:
+- Home — Hero with headline + CTA, trust strip, 3 key benefits,
+  services preview, testimonials, about preview, final CTA
+- About — Story, mission, what makes me different, CTA
+- Services — Service grid with descriptions, how-it-works steps, FAQ, CTA
+- Listings — Card grid with Unsplash images, filter bar, CTAs
+- Contact — Form (Name, Email, Phone, Message), contact info, map, social links
+
+Header: Sticky, logo + nav + Contact CTA button + mobile menu
+Footer: Logo, quick links, contact info, socials, copyright
+
+Requirements:
+- Modern, clean design — you pick the best colours and fonts for my business
+- Fully mobile responsive
+- All links and buttons work
+- Unsplash images that fit my niche
+- SEO-ready (meta titles, H1s, alt text, semantic HTML)
+- Build it as one artifact I can preview and export
